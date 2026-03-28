@@ -32,7 +32,7 @@ const my_function = function(){
 
 // console.log(typeof my_function)
 
-// stack(primitive), heap(non primitive)
+// ****** stack(primitive),***** heap(non primitive)
 
 let my_youtube = "iodfhioyvfed"
 let youtube = my_youtube
